@@ -3,7 +3,7 @@ from .tag import Tag
 import random
 
 
-class SaperTerminal:
+class Minesweeper:
 
     def __init__(self, countColumn, countLine, countMine):
         if countColumn * countLine > 200: 
