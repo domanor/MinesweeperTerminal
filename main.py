@@ -1,4 +1,4 @@
-from objects import SaperTerminal, textStart
+from objects import Minesweeper, textStart
 from sys import argv
 import os
 
@@ -14,7 +14,7 @@ def main(count_cols=5, count_rows=5, count_mines=7):
     if count_cols*count_rows <= count_mines + 9:
         raise Exception("too many mines")
 
-    game = SaperTerminal(count_cols, count_rows, count_mines)
+    game = Minesweeper(count_cols, count_rows, count_mines)
     printGame(game, textStart)
 
     xPos, yPos, action = input().split()
