@@ -1,4 +1,4 @@
-from .game import SaperTerminal
+from .game import Minesweeper
 from .tag import Tag
 from .cell import Cell
 
