@@ -1,7 +1,7 @@
 # MinesweeperTerminal
 ## About the game
-**This is the game "Mineweeper" with pseudo-graphical interface, written in Python for one of the homework assignments at the Yandex Lyceum in the direction of "Industrial Programming in Python". To run you only need Python version 3.9+ installed**
----
+This is the game "Mineweeper" with pseudo-graphical interface, written in Python for one of the homework assignments at the Yandex Lyceum in the direction of "Industrial Programming in Python". To run you only need Python version 3.9+ installed
+
 ## Manual
 0. Python version 3.9+ must be installed
 1. You need to go to the terminal and open it in the directory where you want to save the game
