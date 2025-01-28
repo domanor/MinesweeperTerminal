@@ -20,7 +20,7 @@ This is the game "Mineweeper" with pseudo-graphical interface, written in Python
 
     - if you want to set the length and width of the field, and the number of mines, then enter the command:
         ```
-        python main.py [x] [y] [z]
+        python main.py x y z
         ```
     
         `x - number of columns`;
